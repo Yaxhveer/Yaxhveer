@@ -31,3 +31,5 @@ I am Yashveer, a full stack web developer. I am currently pursuing Integrated B.
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"/> </a>
 </p>
 
+---
+[![Visits Badge](https://badges.pufler.dev/visits/yaxhveer/yaxhveer)](https://github.com/yaxhveer)
